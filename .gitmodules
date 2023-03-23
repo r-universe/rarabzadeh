@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RHMS"]
+	path = RHMS
+	url = https://github.com/cran/RHMS
+	shallow = true
+	registered = true
+[submodule "RSSOP"]
+	path = RSSOP
+	url = https://github.com/cran/RSSOP
+	shallow = true
+	registered = true
+[submodule "WRSS"]
+	path = WRSS
+	url = https://github.com/cran/WRSS
+	shallow = true
+	registered = true
