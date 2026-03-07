@@ -8,6 +8,3 @@
 [submodule "RSSOP"]
 	path = RSSOP
 	url = https://github.com/cran/RSSOP
-[submodule "WRSS"]
-	path = WRSS
-	url = https://github.com/cran/WRSS
